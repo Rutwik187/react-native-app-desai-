@@ -1,13 +1,13 @@
 {
   "expo": {
     "name": "Desai Bandhu Ambewale",
-    "slug": "Desai Bandhu Ambewale",
-    "version": "1.0.0",
+    "slug": "desai-bandhu-ambewale",
+    "version": "2.1.0",
     "orientation": "portrait",
-    "icon": "./assets/logo.png",
+    "icon": "./assets/desai-logo.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/logo.png",
+      "image": "./assets/desai-logo.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -16,18 +16,19 @@
       "supportsTablet": true
     },
     "android": {
+      "versionCode": 2,
       "adaptiveIcon": {
-        "foregroundImage": "./assets/logo.png",
+        "foregroundImage": "./assets/desai-logo.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.rutwik187.myapp"
+      "package": "com.desai.desaibandhuambewale"
     },
     "web": {
       "favicon": "./assets/favicon.png"
     },
     "extra": {
       "eas": {
-        "projectId": "2bb09415-eefb-4503-bf6a-6613bdbda076"
+        "projectId": "e5d4d41a-c622-49e6-bbfd-33a3e90cee15"
       }
     }
   }
